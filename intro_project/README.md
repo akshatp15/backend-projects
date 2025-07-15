@@ -1,6 +1,6 @@
 # Intro Project
 - This program is a basic backend project which handles incoming HTTP requests(GET, POST, DELETE) and sends back responses using Node.js and Express.js.
-  ## Running the Program:
+## Running the Program:
   1. First open a new terminal window after opening the project in VSCode
   2. Change from the root directory into the intro_project directory
       ```
